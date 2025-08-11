@@ -1,0 +1,9 @@
+metric,value
+n_loans,11829.0
+n_borrowers,6196.0
+countries,2.0
+total_outstanding,1155515194.669
+median_outstanding,1029.6
+pct_late_any,0.9798939894349403
+avg_loan_duration_days,67.74600300573249
+avg_repaid_per_day,1.938116035672825
