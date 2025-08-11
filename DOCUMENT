@@ -1,0 +1,26 @@
+1) If repayed_ammount exists, let us 3.872, then how is it possible that 232.210 remains same
+2)
+
+
+
+Action Points
+
+1) PD/LD
+On-time borrowers (days_past_due = NaN or 0).
+Late payers (1–30 days overdue).
+High-risk defaults (>90 days overdue).
+
+2)Portfolio Risk Profile:
+% of loans that are overdue.
+Average overdue days by country or loan type.
+Risk concentration (e.g., “20% of loans are 60+ days overdue”).
+
+
+
+3. Potential Red Flags to Watch
+High percentage of days_past_due > 30 → signs of portfolio stress.
+Loans with no repayments since issuance.
+Large concentration of loans in one country with rising overdue rates.
+Repeat late payers who still get new loans.
+
+
